@@ -1,8 +1,9 @@
 
-Microssoft Quantum Computing Resources
+Microsoft Quantum Computing Resources
 ====
 
-### Microsfot Quantum References
+
+### Microsoft Quantum Computing References
 * https://www.microsoft.com/en-us/quantum/
 * https://www.microsoft.com/en-us/quantum/team
 * Quantum Computing Concepts:
@@ -12,8 +13,6 @@ Microssoft Quantum Computing Resources
   * https://info.microsoft.com/LearnMoreAboutMicrosoftQuantumNetwork.html
 * https://www.microsoft.com/en-us/research/lab/quantum/
   * https://www.microsoft.com/en-us/research/lab/quantum/#!groups
-
-
 
 
 ### Microsoft Quantum Development Kit 
@@ -76,7 +75,7 @@ Microssoft Quantum Computing Resources
 
 
 
-### Books to read...
+### Books/Papers to read...
 * Nielsen, M. A. & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Quantum Computation and Quantum Information, UK: Cambridge University Press, 2010.
 * Kitaev, A. Y., Shen, A., & Vyalyi, M. N. (2002). Classical and quantum computation (Vol. 47). Providence: American Mathematical Society.
 * Kaye, P., Laﬂamme, R., & Mosca, M. (2007). An introduction to quantum computing. Oxford University Press.
