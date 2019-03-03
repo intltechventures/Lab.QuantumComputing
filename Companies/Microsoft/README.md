@@ -2,9 +2,7 @@
 Microsoft Quantum Computing Resources
 ====
 
-<<<<<<< HEAD
 ### Microsoft Quantum Computing References
->>>>>>> 0f9a2bc01a34e7c6e19df0069058227873bbccba
 * https://www.microsoft.com/en-us/quantum/
 * https://www.microsoft.com/en-us/quantum/team
 * Quantum Computing Concepts:
