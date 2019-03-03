@@ -1,8 +1,8 @@
 
-Microssoft Quantum Computing Resources
+Microsoft Quantum Computing Resources
 ====
 
-### Microsfot Quantum References
+### Microsoft Quantum References
 * https://www.microsoft.com/en-us/quantum/
 * https://www.microsoft.com/en-us/quantum/team
 * Quantum Computing Concepts:
