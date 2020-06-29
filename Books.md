@@ -19,3 +19,6 @@
 ## Quantum Computing: Microsfot Q#
 - Learn Quantum Computing with Python and Q#
   + https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp
+    * Full Disclosure: I have helped with some of the early technical reviews for this book 
+
+
