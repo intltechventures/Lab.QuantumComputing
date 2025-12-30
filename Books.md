@@ -18,6 +18,10 @@
   + https://www.amazon.com/dp/1119933900/
 
 
+- Quantum Computing for Everyone (Mit Press, 2020) 
+  + https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535/
+
+
 - Dancing with Qubits: How quantum computing works and how it can change the world
   + https://www.amazon.com/gp/product/1838827366
 
@@ -31,6 +35,18 @@
   + https://quantum.cloud.ibm.com/learning/en
 
 
+- Quantum Computing for Programmers (2025)
+  + https://www.amazon.com/Quantum-Computing-Programmers-Robert-Hundt/dp/1009548530/
+
+
+## Background Reading: Mathematics
+
+- Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities (2022)
+  + https://www.amazon.com/Essential-Mathematics-Quantum-Computing-complexities/dp/1801073147
+
+
+- Mathematical Foundations of Quantum Computing: A Scaffolding Approach (2025)
+  + https://www.amazon.com/dp/1961880091/
 
 ## Quantum Computing: Microsoft Q#
 
