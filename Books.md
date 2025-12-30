@@ -7,6 +7,10 @@
   + https://www.amazon.com/Foundations-Quantum-Mechanics-Exploration-Undergraduate/dp/3319658662
 
 
+- Introduction to Quantum Mechanics, 3rd Edition 
+  + https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/
+
+
 
 ## Background Reading: Quantum Computing
 
@@ -23,14 +27,17 @@
   + https://quantum.cloud.ibm.com/learning/en
 
 
+
 ## Quantum Computing: Microsoft Q#
 
 - Learn Quantum Computing with Python and Q#
   + https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp
     * Full Disclosure: I have helped with some of the early technical reviews for this book 
 
+
 - Quantum Programming in Depth, Solving problems with Q# and Qiskit
   + https://www.manning.com/books/quantum-programming-in-depth
+
 
 
 ## Quantum Computing: Python
