@@ -14,6 +14,10 @@
 
 ## Background Reading: Quantum Computing
 
+- Quantum Computing For Dummies, 1st Edition 
+  + https://www.amazon.com/dp/1119933900/
+
+
 - Dancing with Qubits: How quantum computing works and how it can change the world
   + https://www.amazon.com/gp/product/1838827366
 
